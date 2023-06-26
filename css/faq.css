@@ -1,0 +1,38 @@
+/* 
+    #081158
+*/
+.faq{
+    background-color: #f8f9fa;
+}
+.faq .fp{
+    font-size: 18px;
+}
+.slide{
+    width: 100%;
+}
+.slider .btn{
+    font-size: 20px;
+    background-color: #fff;
+    color:#081158;
+    font-weight: bold;
+    width: 100%;
+    padding: 10px 30px;
+    text-align: left;
+}
+.slider .btn span{
+    font-size: 24px;
+}
+.slider p{
+    margin: 0;
+    font-size: 18px;
+    width: 100%;
+}
+.detail{
+    display: none;
+    background-color: #fff;
+}
+
+.toggle{
+    background-color: #081158 !important;
+    color: #fff !important;
+}

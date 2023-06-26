@@ -1,0 +1,14 @@
+.team img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.team figcaption{
+    margin-bottom: 20px;
+    
+}
+.myp{
+    font-size: 18px;
+    margin: 30px 0 !important;
+}
